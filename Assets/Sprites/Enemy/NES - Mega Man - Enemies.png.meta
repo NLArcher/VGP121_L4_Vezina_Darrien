@@ -1,0 +1,3802 @@
+fileFormatVersion: 2
+guid: bc1bedfe78ff8d74083a984db7511912
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -168501753037224266
+    second: NES - Mega Man - Enemies_0
+  - first:
+      213: 3422574922160206531
+    second: NES - Mega Man - Enemies_1
+  - first:
+      213: 35641167224509075
+    second: NES - Mega Man - Enemies_2
+  - first:
+      213: 2345951964696613198
+    second: NES - Mega Man - Enemies_3
+  - first:
+      213: -4496354597336927952
+    second: NES - Mega Man - Enemies_4
+  - first:
+      213: 7414779767780769700
+    second: NES - Mega Man - Enemies_5
+  - first:
+      213: -6775223055368094046
+    second: NES - Mega Man - Enemies_6
+  - first:
+      213: 7514067953963298511
+    second: NES - Mega Man - Enemies_7
+  - first:
+      213: 8957194753028076329
+    second: NES - Mega Man - Enemies_8
+  - first:
+      213: 4654827074541796457
+    second: NES - Mega Man - Enemies_9
+  - first:
+      213: -2417537875509862829
+    second: Enemy idle
+  - first:
+      213: -2698292754207491227
+    second: NES - Mega Man - Enemies_11
+  - first:
+      213: -7116585929660182805
+    second: NES - Mega Man - Enemies_12
+  - first:
+      213: -9049352484228589444
+    second: NES - Mega Man - Enemies_13
+  - first:
+      213: 1949735383847169208
+    second: NES - Mega Man - Enemies_14
+  - first:
+      213: -1609959367015837604
+    second: NES - Mega Man - Enemies_15
+  - first:
+      213: -7650025124471951309
+    second: NES - Mega Man - Enemies_16
+  - first:
+      213: 7030031727762606653
+    second: NES - Mega Man - Enemies_17
+  - first:
+      213: -7491629561122742515
+    second: NES - Mega Man - Enemies_18
+  - first:
+      213: 5579914444194705245
+    second: NES - Mega Man - Enemies_19
+  - first:
+      213: 2571366787156896698
+    second: NES - Mega Man - Enemies_20
+  - first:
+      213: 6279455976179987481
+    second: NES - Mega Man - Enemies_21
+  - first:
+      213: 461166050587372427
+    second: NES - Mega Man - Enemies_22
+  - first:
+      213: 1395415383813758521
+    second: NES - Mega Man - Enemies_23
+  - first:
+      213: -3379011027249604843
+    second: NES - Mega Man - Enemies_24
+  - first:
+      213: -2112425111824729537
+    second: NES - Mega Man - Enemies_25
+  - first:
+      213: -8391341759956618473
+    second: NES - Mega Man - Enemies_26
+  - first:
+      213: 9025471046547476290
+    second: NES - Mega Man - Enemies_27
+  - first:
+      213: 1781879131640759438
+    second: NES - Mega Man - Enemies_28
+  - first:
+      213: 1593882499568243959
+    second: NES - Mega Man - Enemies_29
+  - first:
+      213: 8399050520786724238
+    second: NES - Mega Man - Enemies_30
+  - first:
+      213: -7377372515934106377
+    second: NES - Mega Man - Enemies_31
+  - first:
+      213: -3352193992793595032
+    second: NES - Mega Man - Enemies_32
+  - first:
+      213: -205702071879213701
+    second: NES - Mega Man - Enemies_33
+  - first:
+      213: 7040370452695726272
+    second: NES - Mega Man - Enemies_34
+  - first:
+      213: 8933979803739908107
+    second: NES - Mega Man - Enemies_35
+  - first:
+      213: 3963260653098087330
+    second: NES - Mega Man - Enemies_36
+  - first:
+      213: -212853149387951434
+    second: NES - Mega Man - Enemies_37
+  - first:
+      213: -8412754322412188054
+    second: NES - Mega Man - Enemies_38
+  - first:
+      213: -4981533801362274669
+    second: NES - Mega Man - Enemies_39
+  - first:
+      213: -3276432802425247672
+    second: NES - Mega Man - Enemies_40
+  - first:
+      213: 6725103038363454568
+    second: NES - Mega Man - Enemies_41
+  - first:
+      213: -5402102943031530948
+    second: NES - Mega Man - Enemies_42
+  - first:
+      213: -3741691539772832341
+    second: NES - Mega Man - Enemies_43
+  - first:
+      213: -8741504984063196841
+    second: NES - Mega Man - Enemies_44
+  - first:
+      213: -3556703765480017760
+    second: NES - Mega Man - Enemies_45
+  - first:
+      213: -7544812671038845413
+    second: NES - Mega Man - Enemies_46
+  - first:
+      213: -4375833717711006363
+    second: NES - Mega Man - Enemies_47
+  - first:
+      213: -5214826502189968325
+    second: NES - Mega Man - Enemies_48
+  - first:
+      213: -9209540928169401718
+    second: NES - Mega Man - Enemies_49
+  - first:
+      213: 5523170857241588419
+    second: NES - Mega Man - Enemies_50
+  - first:
+      213: -5294951563456959729
+    second: NES - Mega Man - Enemies_51
+  - first:
+      213: 4117549887745587596
+    second: NES - Mega Man - Enemies_52
+  - first:
+      213: -2678090039271516072
+    second: NES - Mega Man - Enemies_53
+  - first:
+      213: 1173031852882119945
+    second: NES - Mega Man - Enemies_54
+  - first:
+      213: -930529342880295696
+    second: NES - Mega Man - Enemies_55
+  - first:
+      213: 5785361380476958025
+    second: NES - Mega Man - Enemies_56
+  - first:
+      213: -1288057282803495318
+    second: NES - Mega Man - Enemies_57
+  - first:
+      213: 6041198032838585605
+    second: NES - Mega Man - Enemies_58
+  - first:
+      213: 6136002565790975593
+    second: NES - Mega Man - Enemies_59
+  - first:
+      213: 4912330899393814991
+    second: NES - Mega Man - Enemies_60
+  - first:
+      213: -2857741340182469314
+    second: NES - Mega Man - Enemies_61
+  - first:
+      213: -3644686812888389304
+    second: NES - Mega Man - Enemies_62
+  - first:
+      213: -6671442903862616455
+    second: NES - Mega Man - Enemies_63
+  - first:
+      213: -3506068682274506180
+    second: NES - Mega Man - Enemies_64
+  - first:
+      213: 4947469472693561751
+    second: NES - Mega Man - Enemies_65
+  - first:
+      213: -4660064018352740515
+    second: NES - Mega Man - Enemies_66
+  - first:
+      213: -4561758899349925072
+    second: NES - Mega Man - Enemies_67
+  - first:
+      213: -5902356570560569902
+    second: NES - Mega Man - Enemies_68
+  - first:
+      213: -5926946742094179482
+    second: NES - Mega Man - Enemies_69
+  - first:
+      213: 6777775907073230907
+    second: NES - Mega Man - Enemies_70
+  - first:
+      213: 910212316836790761
+    second: NES - Mega Man - Enemies_71
+  - first:
+      213: 5813285110243508397
+    second: NES - Mega Man - Enemies_72
+  - first:
+      213: -1521922516554479510
+    second: NES - Mega Man - Enemies_73
+  - first:
+      213: 2261146983710371480
+    second: NES - Mega Man - Enemies_74
+  - first:
+      213: 7563884326113807606
+    second: NES - Mega Man - Enemies_75
+  - first:
+      213: 8942334315056626476
+    second: NES - Mega Man - Enemies_76
+  - first:
+      213: -1803420254940115623
+    second: NES - Mega Man - Enemies_77
+  - first:
+      213: 4772542716001612621
+    second: NES - Mega Man - Enemies_78
+  - first:
+      213: -4727741160422103845
+    second: NES - Mega Man - Enemies_79
+  - first:
+      213: 5386069563730652449
+    second: NES - Mega Man - Enemies_80
+  - first:
+      213: 848826000104721468
+    second: NES - Mega Man - Enemies_81
+  - first:
+      213: 8285234261564555395
+    second: NES - Mega Man - Enemies_82
+  - first:
+      213: 6436800446139451065
+    second: NES - Mega Man - Enemies_83
+  - first:
+      213: 6355622651858546812
+    second: NES - Mega Man - Enemies_84
+  - first:
+      213: 4439376414024056475
+    second: NES - Mega Man - Enemies_85
+  - first:
+      213: -7459773449142623610
+    second: NES - Mega Man - Enemies_86
+  - first:
+      213: -1560440428699469913
+    second: NES - Mega Man - Enemies_87
+  - first:
+      213: 4125567474530374697
+    second: NES - Mega Man - Enemies_88
+  - first:
+      213: 7423297874086820320
+    second: NES - Mega Man - Enemies_89
+  - first:
+      213: -74887789522052634
+    second: NES - Mega Man - Enemies_90
+  - first:
+      213: 2325896016937386772
+    second: NES - Mega Man - Enemies_91
+  - first:
+      213: -3109863759572545511
+    second: NES - Mega Man - Enemies_92
+  - first:
+      213: -9181627711828233080
+    second: NES - Mega Man - Enemies_93
+  - first:
+      213: -6097581207957170129
+    second: NES - Mega Man - Enemies_94
+  - first:
+      213: 1105559117805042990
+    second: NES - Mega Man - Enemies_95
+  - first:
+      213: 2987729028603641668
+    second: NES - Mega Man - Enemies_96
+  - first:
+      213: -4043179634624907819
+    second: NES - Mega Man - Enemies_97
+  - first:
+      213: 4353237282584052909
+    second: NES - Mega Man - Enemies_98
+  - first:
+      213: -1598903413437680316
+    second: NES - Mega Man - Enemies_99
+  - first:
+      213: -1439509847284774547
+    second: NES - Mega Man - Enemies_100
+  - first:
+      213: -1396733172919457718
+    second: NES - Mega Man - Enemies_101
+  - first:
+      213: -7038151867673432604
+    second: NES - Mega Man - Enemies_102
+  - first:
+      213: -6522017284201873477
+    second: NES - Mega Man - Enemies_103
+  - first:
+      213: -5521842308251647154
+    second: NES - Mega Man - Enemies_104
+  - first:
+      213: -8697567799440579984
+    second: NES - Mega Man - Enemies_105
+  - first:
+      213: -5337947221732297206
+    second: NES - Mega Man - Enemies_106
+  - first:
+      213: 1781116607741623959
+    second: NES - Mega Man - Enemies_107
+  - first:
+      213: -9015029945142472091
+    second: NES - Mega Man - Enemies_108
+  - first:
+      213: -5172139713243843069
+    second: NES - Mega Man - Enemies_109
+  - first:
+      213: 4233065047142922040
+    second: NES - Mega Man - Enemies_110
+  - first:
+      213: 1068725709424567569
+    second: NES - Mega Man - Enemies_111
+  - first:
+      213: 8286745579502133424
+    second: NES - Mega Man - Enemies_112
+  - first:
+      213: -9157250093684506311
+    second: NES - Mega Man - Enemies_113
+  - first:
+      213: 5585339371029536187
+    second: NES - Mega Man - Enemies_114
+  - first:
+      213: 2655542336962490226
+    second: NES - Mega Man - Enemies_115
+  - first:
+      213: -5984246158255255759
+    second: NES - Mega Man - Enemies_116
+  - first:
+      213: 7522392796633693786
+    second: NES - Mega Man - Enemies_117
+  - first:
+      213: -3770757884110760940
+    second: NES - Mega Man - Enemies_118
+  - first:
+      213: 1884564697125258802
+    second: NES - Mega Man - Enemies_119
+  - first:
+      213: 147924668289039315
+    second: NES - Mega Man - Enemies_120
+  - first:
+      213: 2470049619363661716
+    second: NES - Mega Man - Enemies_121
+  - first:
+      213: 4070581316339075906
+    second: NES - Mega Man - Enemies_122
+  - first:
+      213: -9206622817841461580
+    second: NES - Mega Man - Enemies_123
+  - first:
+      213: 7885807829893348130
+    second: NES - Mega Man - Enemies_124
+  - first:
+      213: -6540979792320835900
+    second: NES - Mega Man - Enemies_125
+  - first:
+      213: 6073020457080669922
+    second: NES - Mega Man - Enemies_126
+  - first:
+      213: -8733381821762748386
+    second: NES - Mega Man - Enemies_127
+  - first:
+      213: -4957025442342146034
+    second: NES - Mega Man - Enemies_128
+  - first:
+      213: 6188752842078339842
+    second: NES - Mega Man - Enemies_129
+  - first:
+      213: 7626360970163141494
+    second: NES - Mega Man - Enemies_130
+  - first:
+      213: 8971145600953295278
+    second: NES - Mega Man - Enemies_131
+  - first:
+      213: -830278211349200305
+    second: NES - Mega Man - Enemies_132
+  - first:
+      213: 1530752260742639896
+    second: NES - Mega Man - Enemies_133
+  - first:
+      213: 8887357345764825250
+    second: NES - Mega Man - Enemies_134
+  - first:
+      213: 7769138197104435010
+    second: NES - Mega Man - Enemies_135
+  - first:
+      213: 5425150659268269652
+    second: NES - Mega Man - Enemies_136
+  - first:
+      213: 2736663363317647370
+    second: NES - Mega Man - Enemies_137
+  - first:
+      213: -7273513694989823150
+    second: NES - Mega Man - Enemies_138
+  - first:
+      213: 118710077889736035
+    second: NES - Mega Man - Enemies_139
+  - first:
+      213: 3603374411537192146
+    second: NES - Mega Man - Enemies_140
+  - first:
+      213: 138880572325642416
+    second: NES - Mega Man - Enemies_141
+  - first:
+      213: 5151453834496548135
+    second: NES - Mega Man - Enemies_142
+  - first:
+      213: 8359294725354308037
+    second: NES - Mega Man - Enemies_143
+  - first:
+      213: 6579590136483460077
+    second: NES - Mega Man - Enemies_144
+  - first:
+      213: 7078398605021469837
+    second: NES - Mega Man - Enemies_145
+  - first:
+      213: 5060766325015494721
+    second: NES - Mega Man - Enemies_146
+  - first:
+      213: 2563969832842458514
+    second: NES - Mega Man - Enemies_147
+  - first:
+      213: 7067429626838082546
+    second: NES - Mega Man - Enemies_148
+  - first:
+      213: -3443199038019989777
+    second: NES - Mega Man - Enemies_149
+  - first:
+      213: -4043008493785482262
+    second: NES - Mega Man - Enemies_150
+  - first:
+      213: -6946826136022007219
+    second: NES - Mega Man - Enemies_151
+  - first:
+      213: 56565028625108970
+    second: NES - Mega Man - Enemies_152
+  - first:
+      213: -7678168517634156399
+    second: NES - Mega Man - Enemies_153
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 554
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b68f226c8c59adf0800000000000000
+      internalID: -168501753037224266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 552
+        width: 18
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2f48412cd6f7f20800000000000000
+      internalID: 3422574922160206531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 550
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3921cc7e37f9e7000800000000000000
+      internalID: 35641167224509075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 551
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e411fdbe1ee7e8020800000000000000
+      internalID: 2345951964696613198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 547
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031b981015db991c0800000000000000
+      internalID: -4496354597336927952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 548
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af7352e9e696e660800000000000000
+      internalID: 7414779767780769700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 546
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae7fbe178299f1a0800000000000000
+      internalID: -6775223055368094046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 546
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcee02e2ef4574860800000000000000
+      internalID: 7514067953963298511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 546
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9233b3eab295e4c70800000000000000
+      internalID: 8957194753028076329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 546
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c3fecdf84499040800000000000000
+      internalID: 4654827074541796457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy idle
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 505
+        width: 32
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e9e236c1e237ed0800000000000000
+      internalID: -2417537875509862829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 505
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bb375490dbd8ad0800000000000000
+      internalID: -2698292754207491227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 505
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beecf016dcecc3d90800000000000000
+      internalID: -7116585929660182805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 521
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7891427cdd3a6280800000000000000
+      internalID: -9049352484228589444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 522
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc6830600ade0b10800000000000000
+      internalID: 1949735383847169208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 509
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5055325c7648a9e0800000000000000
+      internalID: -1609959367015837604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 510
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330390d4ea6a5d590800000000000000
+      internalID: -7650025124471951309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 508
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a04051c90bf8160800000000000000
+      internalID: 7030031727762606653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 506
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f96744b92680890800000000000000
+      internalID: -7491629561122742515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 506
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5feb439f96df6d40800000000000000
+      internalID: 5579914444194705245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 506
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb69bf18745fa320800000000000000
+      internalID: 2571366787156896698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 506
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91479eab0fb152750800000000000000
+      internalID: 6279455976179987481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 502
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8beab36414666600800000000000000
+      internalID: 461166050587372427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 501
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e955af5e28d5310800000000000000
+      internalID: 1395415383813758521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 469
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517d8ac9f575b11d0800000000000000
+      internalID: -3379011027249604843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 469
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a721b8d882fa2e0800000000000000
+      internalID: -2112425111824729537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 469
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71372e8e027fb8b80800000000000000
+      internalID: -8391341759956618473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 474
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f090c091ae04d70800000000000000
+      internalID: 9025471046547476290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 469
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84012221a18ab810800000000000000
+      internalID: 1781879131640759438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 467
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f41a7840bb9e1610800000000000000
+      internalID: 1593882499568243959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 473
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e856d06d2fb6f8470800000000000000
+      internalID: 8399050520786724238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 473
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc8404a8ce4e9990800000000000000
+      internalID: -7377372515934106377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 474
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863e651035d9a71d0800000000000000
+      internalID: -3352193992793595032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 469
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dd3143e03352df0800000000000000
+      internalID: -205702071879213701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 469
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8b51010ab64b160800000000000000
+      internalID: 7040370452695726272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 469
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b086e681c4fdbfb70800000000000000
+      internalID: 8933979803739908107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 473
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3b134d094500730800000000000000
+      internalID: 3963260653098087330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 429
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b27869303bcb0df0800000000000000
+      internalID: -212853149387951434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 429
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e4df53484ef3b80800000000000000
+      internalID: -8412754322412188054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 429
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3964335a6690edab0800000000000000
+      internalID: -4981533801362274669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 432
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8486109b9b5c782d0800000000000000
+      internalID: -3276432802425247672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 428
+        width: 14
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ccd8f059d545d50800000000000000
+      internalID: 6725103038363454568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 430
+        width: 24
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a6380beffd705b0800000000000000
+      internalID: -5402102943031530948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 430
+        width: 24
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba581c07e57d21cc0800000000000000
+      internalID: -3741691539772832341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 434
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7514b9e088fefa680800000000000000
+      internalID: -8741504984063196841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 429
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0f44ff4cc04aec0800000000000000
+      internalID: -3556703765480017760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 429
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e0ddd89d07b4790800000000000000
+      internalID: -7544812671038845413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 429
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56598abfa6ae543c0800000000000000
+      internalID: -4375833717711006363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 433
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b349ca3fce631a7b0800000000000000
+      internalID: -5214826502189968325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82aa00f153213080800000000000000
+      internalID: -9209540928169401718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2bca3b1ae36ac40800000000000000
+      internalID: 5523170857241588419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0baf3d5b9d8486b0800000000000000
+      internalID: -5294951563456959729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 392
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c897604aec9742930800000000000000
+      internalID: 4117549887745587596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 388
+        width: 14
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85895b46c4385dad0800000000000000
+      internalID: -2678090039271516072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 393
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dc1455142774010800000000000000
+      internalID: 1173031852882119945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 393
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4da882e781613f0800000000000000
+      internalID: -930529342880295696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 394
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945b79cf58bb94050800000000000000
+      internalID: 5785361380476958025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e8428c9b6ef1ee0800000000000000
+      internalID: -1288057282803495318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 389
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50de12d6a95a6d350800000000000000
+      internalID: 6041198032838585605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 389
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9664bdad2d5772550800000000000000
+      internalID: 6136002565790975593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 393
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc12b852dea1c2440800000000000000
+      internalID: 4912330899393814991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 349
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35a97e54634758d0800000000000000
+      internalID: -2857741340182469314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 327
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849ac3077a87b6dc0800000000000000
+      internalID: -3644686812888389304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 327
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ed7f796064a63a0800000000000000
+      internalID: -6671442903862616455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 327
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3af7e20c11f75fc0800000000000000
+      internalID: -3506068682274506180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 342
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7992df8c541f8a440800000000000000
+      internalID: 4947469472693561751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 342
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5761832770245fb0800000000000000
+      internalID: -4660064018352740515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 342
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0335545437061b0c0800000000000000
+      internalID: -4561758899349925072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 354
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd5b0a98fd961ea0800000000000000
+      internalID: -5902356570560569902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 349
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66351d227514fbda0800000000000000
+      internalID: -5926946742094179482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 349
+        width: 9
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b380d4cf64f7f0e50800000000000000
+      internalID: 6777775907073230907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 349
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e10e379749b1ac00800000000000000
+      internalID: 910212316836790761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 349
+        width: 9
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0c126f100fca050800000000000000
+      internalID: 5813285110243508397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 334
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a680a11e88b01eae0800000000000000
+      internalID: -1521922516554479510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 309
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ea00d9335316f10800000000000000
+      internalID: 2261146983710371480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 306
+        width: 32
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc882c28b058f860800000000000000
+      internalID: 7563884326113807606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 307
+        width: 32
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b7cb75ead891c70800000000000000
+      internalID: 8942334315056626476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 304
+        width: 31
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dcc8345d6f8f6e0800000000000000
+      internalID: -1803420254940115623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 314
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4377ae605a7b3240800000000000000
+      internalID: 4772542716001612621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 309
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd42c079670b36eb0800000000000000
+      internalID: -4727741160422103845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 309
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d65b94bb92fba40800000000000000
+      internalID: 5386069563730652449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 309
+        width: 9
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c8b54ffb2a7cb00800000000000000
+      internalID: 848826000104721468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 309
+        width: 9
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3808371f9a01bf270800000000000000
+      internalID: 8285234261564555395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 269
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6c732f6eb145950800000000000000
+      internalID: 6436800446139451065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 263
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70747ad025b33850800000000000000
+      internalID: 6355622651858546812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 263
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9eb626e355db9d30800000000000000
+      internalID: 4439376414024056475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 263
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682a6f2529f897890800000000000000
+      internalID: -7459773449142623610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 269
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7b53a92b3385ae0800000000000000
+      internalID: -1560440428699469913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 266
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924d94882c5f04930800000000000000
+      internalID: 4125567474530374697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 263
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e97bde061ad40760800000000000000
+      internalID: 7423297874086820320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 274
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e91683c3f1f5fef0800000000000000
+      internalID: -74887789522052634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 269
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4138c02ba1e374020800000000000000
+      internalID: 2325896016937386772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 269
+        width: 9
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91051de236b87d4d0800000000000000
+      internalID: -3109863759572545511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 269
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88478901e3e449080800000000000000
+      internalID: -9181627711828233080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 269
+        width: 9
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f289d9e923a016ba0800000000000000
+      internalID: -6097581207957170129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 216
+        width: 16
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2db6fef82cb75f00800000000000000
+      internalID: 1105559117805042990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 225
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ffa0bc8bb867920800000000000000
+      internalID: 2987729028603641668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 228
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5b6134b8db3e7c0800000000000000
+      internalID: -4043179634624907819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 242
+        width: 24
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4c86b7e3ec96c30800000000000000
+      internalID: 4353237282584052909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 229
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44533eb11dd8fc9e0800000000000000
+      internalID: -1598903413437680316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 226
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d690ae5bb65d50ce0800000000000000
+      internalID: -1439509847284774547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 223
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48a126549ecd9ce0800000000000000
+      internalID: -1396733172919457718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 227
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eda2148a26735e90800000000000000
+      internalID: -7038151867673432604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 227
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf703cc5d32d75a0800000000000000
+      internalID: -6522017284201873477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 227
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4300f63da97e53b0800000000000000
+      internalID: -5521842308251647154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 227
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072e7780b280c4780800000000000000
+      internalID: -8697567799440579984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 227
+        width: 24
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06fcd2984dcbe5b0800000000000000
+      internalID: -5337947221732297206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 189
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79efcf33e1cc7b810800000000000000
+      internalID: 1781116607741623959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 189
+        width: 21
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5621640570e24e280800000000000000
+      internalID: -9015029945142472091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 189
+        width: 24
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306f86f755ed838b0800000000000000
+      internalID: -5172139713243843069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 191
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837731e8b3edeba30800000000000000
+      internalID: 4233065047142922040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 194
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1152490de50e4de00800000000000000
+      internalID: 1068725709424567569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 185
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b06342133f600370800000000000000
+      internalID: 8286745579502133424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 185
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931c5869e89eae080800000000000000
+      internalID: -9157250093684506311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 185
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd1838c09c138d40800000000000000
+      internalID: 5585339371029536187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 185
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fe8a09fa16ad420800000000000000
+      internalID: 2655542336962490226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 174
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f03b033dfa3fca0800000000000000
+      internalID: -5984246158255255759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 149
+        width: 80
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5efe48a468e46860800000000000000
+      internalID: 7522392796633693786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 149
+        width: 80
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4141397cea39babc0800000000000000
+      internalID: -3770757884110760940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 151
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23684607b91572a10800000000000000
+      internalID: 1884564697125258802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 154
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbb2eab3b88d0200800000000000000
+      internalID: 147924668289039315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 145
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49782cbba01674220800000000000000
+      internalID: 2470049619363661716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 145
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b8bbde32c9d7830800000000000000
+      internalID: 4070581316339075906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 145
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6cd8173518b3080800000000000000
+      internalID: -9206622817841461580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 145
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b79c3c074007d60800000000000000
+      internalID: 7885807829893348130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 134
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce45b3d885c935a0800000000000000
+      internalID: -6540979792320835900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 109
+        width: 80
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e649f1fde3b74450800000000000000
+      internalID: 6073020457080669922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 109
+        width: 80
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e104af9218bccc680800000000000000
+      internalID: -8733381821762748386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 114
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e007f96af9b153bb0800000000000000
+      internalID: -4957025442342146034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 105
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203c4c2abedd2e550800000000000000
+      internalID: 6188752842078339842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 105
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b3a7b65e646d960800000000000000
+      internalID: 7626360970163141494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 105
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea121259469ef7c70800000000000000
+      internalID: 8971145600953295278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 102
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42c8c3ad524a74f0800000000000000
+      internalID: -830278211349200305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 448
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811f0b422135e3510800000000000000
+      internalID: 1530752260742639896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 16
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a855423b6c365b70800000000000000
+      internalID: 8887357345764825250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 16
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f1451170681db60800000000000000
+      internalID: 7769138197104435010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 72
+        width: 30
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45659aae7c10a4b40800000000000000
+      internalID: 5425150659268269652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 72
+        width: 30
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08cf5854d49af520800000000000000
+      internalID: 2736663363317647370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 72
+        width: 26
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2535135c4d94f0b90800000000000000
+      internalID: -7273513694989823150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 48
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d60e7df2eb5a100800000000000000
+      internalID: 118710077889736035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 48
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d418609fe1c10230800000000000000
+      internalID: 3603374411537192146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 32
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b04cab05276de100800000000000000
+      internalID: 138880572325642416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 30
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d9df908f3ad7740800000000000000
+      internalID: 5151453834496548135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 30
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c14a85634e220470800000000000000
+      internalID: 8359294725354308037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 32
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3b2c47e566f4b50800000000000000
+      internalID: 6579590136483460077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 32
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cdcee37068b3260800000000000000
+      internalID: 7078398605021469837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 32
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140cec5d8247b3640800000000000000
+      internalID: 5060766325015494721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 30
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295746d7afc059320800000000000000
+      internalID: 2563969832842458514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 32
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f361cefccd841260800000000000000
+      internalID: 7067429626838082546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 32
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee0adfb7bc4730d0800000000000000
+      internalID: -3443199038019989777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 30
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb7708123954e7c0800000000000000
+      internalID: -4043008493785482262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_151
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 32
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4242066f6ae79f90800000000000000
+      internalID: -6946826136022007219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_152
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 32
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefc8e50895f8c000800000000000000
+      internalID: 56565028625108970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Enemies_153
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 30
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19814d4f96aa17590800000000000000
+      internalID: -7678168517634156399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

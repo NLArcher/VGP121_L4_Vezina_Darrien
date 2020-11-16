@@ -1,0 +1,1582 @@
+fileFormatVersion: 2
+guid: ce28add31a20685499cfcee7e0ddefd4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8674595685596629147
+    second: Mega-Man Idle
+  - first:
+      213: -3068017854010925726
+    second: Mega-Man Idle 2
+  - first:
+      213: -3044790678616483048
+    second: Mega-Man Idle 3
+  - first:
+      213: -1864813719279452979
+    second: Mega-Man Run 1
+  - first:
+      213: 8869331228631541921
+    second: Mega-Man Run 2
+  - first:
+      213: 7155163189301224586
+    second: Mega-Man Run 3
+  - first:
+      213: 7118640927878877769
+    second: Mega-Man Slide
+  - first:
+      213: -9071965961843783558
+    second: Mega-Man Jump 1
+  - first:
+      213: -8168612402691952408
+    second: Mega-Man Climb 1
+  - first:
+      213: -8507790060650731613
+    second: Mega-Man Climb Down 1
+  - first:
+      213: -5395366766069050822
+    second: Mega-Man Jump 2
+  - first:
+      213: -2825213349224343042
+    second: Mega-Man Gun 1
+  - first:
+      213: 7272060331281219893
+    second: Mega-Man Gun 2
+  - first:
+      213: 1118078324335015564
+    second: Mega-Man Gun 3
+  - first:
+      213: 2554350454212050583
+    second: Mega-Man Gun 4
+  - first:
+      213: -7065297695946377847
+    second: Game Gear - Mega Man - Mega Man_15
+  - first:
+      213: 1952176025794441892
+    second: Game Gear - Mega Man - Mega Man_16
+  - first:
+      213: 4124805752433245835
+    second: Game Gear - Mega Man - Mega Man_17
+  - first:
+      213: -1973625613662400715
+    second: Game Gear - Mega Man - Mega Man_18
+  - first:
+      213: 6760893276735251148
+    second: Game Gear - Mega Man - Mega Man_19
+  - first:
+      213: 7290957213447287633
+    second: Game Gear - Mega Man - Mega Man_20
+  - first:
+      213: 2676669678679121419
+    second: Game Gear - Mega Man - Mega Man_21
+  - first:
+      213: -6746345966183326274
+    second: Mega-Man Death 1
+  - first:
+      213: 6250594600897723880
+    second: Mega-Man Death 5
+  - first:
+      213: 8946842224334787122
+    second: Mega-Man Death 3
+  - first:
+      213: -5870539910736485783
+    second: Mega-Man Death 2
+  - first:
+      213: 6075637092609590492
+    second: Game Gear - Mega Man - Mega Man_26
+  - first:
+      213: 4547170828873801295
+    second: Game Gear - Mega Man - Mega Man_27
+  - first:
+      213: -7407258411774820151
+    second: Game Gear - Mega Man - Mega Man_28
+  - first:
+      213: -7476432421739344521
+    second: Game Gear - Mega Man - Mega Man_29
+  - first:
+      213: -7836914062883434296
+    second: Game Gear - Mega Man - Mega Man_30
+  - first:
+      213: 2922235313608021137
+    second: Game Gear - Mega Man - Mega Man_31
+  - first:
+      213: 3148324746666159544
+    second: Game Gear - Mega Man - Mega Man_32
+  - first:
+      213: 2744211896459754103
+    second: Game Gear - Mega Man - Mega Man_33
+  - first:
+      213: 3485918035822153334
+    second: Game Gear - Mega Man - Mega Man_34
+  - first:
+      213: -6877002669137965882
+    second: Game Gear - Mega Man - Mega Man_35
+  - first:
+      213: 3959312628763607792
+    second: Game Gear - Mega Man - Mega Man_36
+  - first:
+      213: 6105683079263265699
+    second: Game Gear - Mega Man - Mega Man_37
+  - first:
+      213: 365889376267362891
+    second: Game Gear - Mega Man - Mega Man_38
+  - first:
+      213: 3971158703584623393
+    second: Game Gear - Mega Man - Mega Man_39
+  - first:
+      213: 8088230115411144230
+    second: Game Gear - Mega Man - Mega Man_40
+  - first:
+      213: -6310303115802873532
+    second: Game Gear - Mega Man - Mega Man_41
+  - first:
+      213: 3486119366939379512
+    second: Game Gear - Mega Man - Mega Man_42
+  - first:
+      213: 7359644960616853830
+    second: Game Gear - Mega Man - Mega Man_43
+  - first:
+      213: 4409375331091477296
+    second: Game Gear - Mega Man - Mega Man_44
+  - first:
+      213: 7664266777001679311
+    second: Game Gear - Mega Man - Mega Man_45
+  - first:
+      213: -8150912516480434520
+    second: Game Gear - Mega Man - Mega Man_46
+  - first:
+      213: -1223359396513966380
+    second: Game Gear - Mega Man - Mega Man_47
+  - first:
+      213: 6673510388559793856
+    second: Game Gear - Mega Man - Mega Man_48
+  - first:
+      213: -71689709624912312
+    second: Game Gear - Mega Man - Mega Man_49
+  - first:
+      213: 684595752364213360
+    second: Game Gear - Mega Man - Mega Man_50
+  - first:
+      213: 3826539692105864820
+    second: Game Gear - Mega Man - Mega Man_51
+  - first:
+      213: -3319700812712566015
+    second: Game Gear - Mega Man - Mega Man_52
+  - first:
+      213: -8846996997576597014
+    second: Game Gear - Mega Man - Mega Man_53
+  - first:
+      213: 3920863778961740299
+    second: Game Gear - Mega Man - Mega Man_54
+  - first:
+      213: -3557992415598211112
+    second: Game Gear - Mega Man - Mega Man_55
+  - first:
+      213: 7782506052006155230
+    second: Game Gear - Mega Man - Mega Man_56
+  - first:
+      213: -2672087226153654007
+    second: Game Gear - Mega Man - Mega Man_57
+  - first:
+      213: 747465426024858646
+    second: Game Gear - Mega Man - Mega Man_58
+  - first:
+      213: -6067606401510252225
+    second: Game Gear - Mega Man - Mega Man_59
+  - first:
+      213: 7825483418916768170
+    second: Game Gear - Mega Man - Mega Man_60
+  - first:
+      213: -2472129929866635594
+    second: Game Gear - Mega Man - Mega Man_61
+  - first:
+      213: -7273265375757355893
+    second: Game Gear - Mega Man - Mega Man_62
+  - first:
+      213: -922573307534929899
+    second: Game Gear - Mega Man - Mega Man_63
+  - first:
+      213: 7989858243357879914
+    second: Game Gear - Mega Man - Mega Man_64
+  - first:
+      213: -5478451903943085518
+    second: Game Gear - Mega Man - Mega Man_65
+  - first:
+      213: -2665201660020635316
+    second: Game Gear - Mega Man - Mega Man_66
+  - first:
+      213: -5724449067877043866
+    second: Game Gear - Mega Man - Mega Man_67
+  - first:
+      213: 9127996189379041334
+    second: Game Gear - Mega Man - Mega Man_68
+  - first:
+      213: -3410041714205585738
+    second: Game Gear - Mega Man - Mega Man_69
+  - first:
+      213: -8292098847722783664
+    second: Game Gear - Mega Man - Mega Man_70
+  - first:
+      213: -321355696099144185
+    second: Game Gear - Mega Man - Mega Man_71
+  - first:
+      213: 1322207294409847665
+    second: Game Gear - Mega Man - Mega Man_72
+  - first:
+      213: 3861268365063716226
+    second: Game Gear - Mega Man - Mega Man_73
+  - first:
+      213: -7431236092563476792
+    second: Game Gear - Mega Man - Mega Man_74
+  - first:
+      213: 6414872355502036878
+    second: Game Gear - Mega Man - Mega Man_75
+  - first:
+      213: 2096288765682100765
+    second: Game Gear - Mega Man - Mega Man_76
+  - first:
+      213: 594822604776406834
+    second: Game Gear - Mega Man - Mega Man_77
+  - first:
+      213: -206775698274925848
+    second: Game Gear - Mega Man - Mega Man_78
+  - first:
+      213: 4491746027823909523
+    second: Game Gear - Mega Man - Mega Man_79
+  - first:
+      213: 1454094599087080720
+    second: Game Gear - Mega Man - Mega Man_80
+  - first:
+      213: 5038489335133863866
+    second: Game Gear - Mega Man - Mega Man_81
+  - first:
+      213: 3339543329819432290
+    second: Game Gear - Mega Man - Mega Man_82
+  - first:
+      213: -9077016097178458949
+    second: Game Gear - Mega Man - Mega Man_83
+  - first:
+      213: 8906040132275514248
+    second: Game Gear - Mega Man - Mega Man_84
+  - first:
+      213: 4638821382955227006
+    second: Game Gear - Mega Man - Mega Man_85
+  - first:
+      213: 8893147303180142823
+    second: Game Gear - Mega Man - Mega Man_86
+  - first:
+      213: 194261511982603114
+    second: Game Gear - Mega Man - Mega Man_87
+  - first:
+      213: 2654762219341460246
+    second: Game Gear - Mega Man - Mega Man_88
+  - first:
+      213: 8961924103153416265
+    second: Game Gear - Mega Man - Mega Man_89
+  - first:
+      213: 1081485662763827274
+    second: Game Gear - Mega Man - Mega Man_90
+  - first:
+      213: -8916950599248648438
+    second: Game Gear - Mega Man - Mega Man_91
+  - first:
+      213: 2665210045144176887
+    second: Game Gear - Mega Man - Mega Man_92
+  - first:
+      213: 4963048342682585524
+    second: Game Gear - Mega Man - Mega Man_93
+  - first:
+      213: -928758021075491923
+    second: Game Gear - Mega Man - Mega Man_94
+  - first:
+      213: -4503198707738638754
+    second: Game Gear - Mega Man - Mega Man_95
+  - first:
+      213: -6155388225363291240
+    second: Game Gear - Mega Man - Mega Man_96
+  - first:
+      213: -7989171964135169836
+    second: Game Gear - Mega Man - Mega Man_97
+  - first:
+      213: 1854452189563521262
+    second: Game Gear - Mega Man - Mega Man_98
+  - first:
+      213: 3306221240433564353
+    second: Game Gear - Mega Man - Mega Man_99
+  - first:
+      213: -8160591506329218246
+    second: Game Gear - Mega Man - Mega Man_100
+  - first:
+      213: -7002613743965778293
+    second: Game Gear - Mega Man - Mega Man_101
+  - first:
+      213: -8582331969829670216
+    second: Game Gear - Mega Man - Mega Man_102
+  - first:
+      213: -2616282920061328786
+    second: Game Gear - Mega Man - Mega Man_103
+  - first:
+      213: -8164957784261041142
+    second: Game Gear - Mega Man - Mega Man_104
+  - first:
+      213: -5619722110710217033
+    second: Game Gear - Mega Man - Mega Man_105
+  - first:
+      213: -7072066985057648492
+    second: Game Gear - Mega Man - Mega Man_106
+  - first:
+      213: -614920794089143840
+    second: Game Gear - Mega Man - Mega Man_107
+  - first:
+      213: 4622798281927871943
+    second: Game Gear - Mega Man - Mega Man_108
+  - first:
+      213: -8309464176167394767
+    second: Game Gear - Mega Man - Mega Man_109
+  - first:
+      213: 6043710657243072962
+    second: Game Gear - Mega Man - Mega Man_110
+  - first:
+      213: -2713862582792706097
+    second: Game Gear - Mega Man - Mega Man_111
+  - first:
+      213: 5018261688359639205
+    second: Game Gear - Mega Man - Mega Man_112
+  - first:
+      213: -4416032417744400305
+    second: Game Gear - Mega Man - Mega Man_113
+  - first:
+      213: -6538644756352001862
+    second: Game Gear - Mega Man - Mega Man_114
+  - first:
+      213: -5735628756594861377
+    second: Game Gear - Mega Man - Mega Man_115
+  - first:
+      213: 7846855159709390458
+    second: Game Gear - Mega Man - Mega Man_116
+  - first:
+      213: -6054107028729530589
+    second: Game Gear - Mega Man - Mega Man_117
+  - first:
+      213: -7966815080173627127
+    second: Game Gear - Mega Man - Mega Man_118
+  - first:
+      213: -3535541841083244378
+    second: Game Gear - Mega Man - Mega Man_119
+  - first:
+      213: -1150732924479987600
+    second: Game Gear - Mega Man - Mega Man_120
+  - first:
+      213: -8638693958745204655
+    second: Game Gear - Mega Man - Mega Man_121
+  - first:
+      213: 5434263331031164677
+    second: Game Gear - Mega Man - Mega Man_122
+  - first:
+      213: -5847349325641955402
+    second: Game Gear - Mega Man - Mega Man_123
+  - first:
+      213: -2886597283836836780
+    second: Game Gear - Mega Man - Mega Man_124
+  - first:
+      213: 7421702715090267399
+    second: Game Gear - Mega Man - Mega Man_125
+  - first:
+      213: -7454606120639345495
+    second: Game Gear - Mega Man - Mega Man_126
+  - first:
+      213: -4320633638925625752
+    second: Game Gear - Mega Man - Mega Man_127
+  - first:
+      213: 8082749536312612390
+    second: Game Gear - Mega Man - Mega Man_128
+  - first:
+      213: 2553162620599951211
+    second: Game Gear - Mega Man - Mega Man_129
+  - first:
+      213: -2480680924880042234
+    second: Game Gear - Mega Man - Mega Man_130
+  - first:
+      213: 4312095525443038539
+    second: Game Gear - Mega Man - Mega Man_131
+  - first:
+      213: -494427823314453236
+    second: Game Gear - Mega Man - Mega Man_132
+  - first:
+      213: 1537115789115051541
+    second: Game Gear - Mega Man - Mega Man_133
+  - first:
+      213: 3893553932372239569
+    second: Game Gear - Mega Man - Mega Man_134
+  - first:
+      213: -6831393171069848525
+    second: Game Gear - Mega Man - Mega Man_135
+  - first:
+      213: -2419712127231927904
+    second: Game Gear - Mega Man - Mega Man_136
+  - first:
+      213: 8031715245580363353
+    second: Game Gear - Mega Man - Mega Man_137
+  - first:
+      213: 8880128228027347768
+    second: Game Gear - Mega Man - Mega Man_138
+  - first:
+      213: 8580432901802878199
+    second: Game Gear - Mega Man - Mega Man_139
+  - first:
+      213: -8781008396234094636
+    second: Game Gear - Mega Man - Mega Man_140
+  - first:
+      213: -886442223973521966
+    second: Game Gear - Mega Man - Mega Man_141
+  - first:
+      213: 3635377762055718588
+    second: Game Gear - Mega Man - Mega Man_142
+  - first:
+      213: -7361261771969644461
+    second: Game Gear - Mega Man - Mega Man_143
+  - first:
+      213: 5045529708336664712
+    second: Game Gear - Mega Man - Mega Man_144
+  - first:
+      213: -6611049777603531810
+    second: Game Gear - Mega Man - Mega Man_145
+  - first:
+      213: -3942604586365581026
+    second: Game Gear - Mega Man - Mega Man_146
+  - first:
+      213: 5413720387331386790
+    second: Game Gear - Mega Man - Mega Man_147
+  - first:
+      213: 2826735851495844068
+    second: Game Gear - Mega Man - Mega Man_148
+  - first:
+      213: -2000484071824359232
+    second: Game Gear - Mega Man - Mega Man_149
+  - first:
+      213: -6415302681284960144
+    second: Game Gear - Mega Man - Mega Man_150
+  - first:
+      213: 5113059453020819090
+    second: Game Gear - Mega Man - Mega Man_151
+  - first:
+      213: -378363639911028598
+    second: Game Gear - Mega Man - Mega Man_152
+  - first:
+      213: 1700425739183806168
+    second: Game Gear - Mega Man - Mega Man_153
+  - first:
+      213: 2025809461933845580
+    second: Game Gear - Mega Man - Mega Man_154
+  - first:
+      213: -6521519694212785979
+    second: Game Gear - Mega Man - Mega Man_155
+  - first:
+      213: -4371349125025258089
+    second: Game Gear - Mega Man - Mega Man_156
+  - first:
+      213: 7975901456562942046
+    second: Game Gear - Mega Man - Mega Man_157
+  - first:
+      213: -8012854223426133455
+    second: Game Gear - Mega Man - Mega Man_158
+  - first:
+      213: -7642991771718716470
+    second: Game Gear - Mega Man - Mega Man_159
+  - first:
+      213: 6900211795515009201
+    second: Game Gear - Mega Man - Mega Man_160
+  - first:
+      213: -2717026889828228046
+    second: Game Gear - Mega Man - Mega Man_161
+  - first:
+      213: 7459261365402570633
+    second: Game Gear - Mega Man - Mega Man_162
+  - first:
+      213: -4207516350183451392
+    second: Game Gear - Mega Man - Mega Man_163
+  - first:
+      213: -845183627691151815
+    second: Game Gear - Mega Man - Mega Man_164
+  - first:
+      213: 1423206856383110016
+    second: Game Gear - Mega Man - Mega Man_165
+  - first:
+      213: 9036602196577162330
+    second: Game Gear - Mega Man - Mega Man_166
+  - first:
+      213: 9254679398596160
+    second: Game Gear - Mega Man - Mega Man_167
+  - first:
+      213: -6365657577060771308
+    second: Game Gear - Mega Man - Mega Man_168
+  - first:
+      213: 4397023584874792662
+    second: Game Gear - Mega Man - Mega Man_0
+  - first:
+      213: 1960915532489038419
+    second: Game Gear - Mega Man - Mega Man_1
+  - first:
+      213: -5405337834179329733
+    second: Game Gear - Mega Man - Mega Man_2
+  - first:
+      213: -1468164941105210667
+    second: Game Gear - Mega Man - Mega Man_3
+  - first:
+      213: 5738731384709664350
+    second: Game Gear - Mega Man - Mega Man_4
+  - first:
+      213: -1923775738598392930
+    second: Game Gear - Mega Man - Mega Man_5
+  - first:
+      213: 3273295775782223428
+    second: Game Gear - Mega Man - Mega Man_6
+  - first:
+      213: 2523230638329451022
+    second: Game Gear - Mega Man - Mega Man_7
+  - first:
+      213: -4568991052488110084
+    second: Game Gear - Mega Man - Mega Man_8
+  - first:
+      213: 2300820063752076118
+    second: Game Gear - Mega Man - Mega Man_9
+  - first:
+      213: 8654555973148755443
+    second: Game Gear - Mega Man - Mega Man_10
+  - first:
+      213: -2681672245028080086
+    second: Game Gear - Mega Man - Mega Man_11
+  - first:
+      213: -1943818157820996171
+    second: Game Gear - Mega Man - Mega Man_12
+  - first:
+      213: 943813375274701053
+    second: Game Gear - Mega Man - Mega Man_13
+  - first:
+      213: -403184488321382447
+    second: Game Gear - Mega Man - Mega Man_14
+  - first:
+      213: 5643921707347054530
+    second: Game Gear - Mega Man - Mega Man_15
+  - first:
+      213: 16301190840678883
+    second: Game Gear - Mega Man - Mega Man_16
+  - first:
+      213: -940772274999039150
+    second: Game Gear - Mega Man - Mega Man_17
+  - first:
+      213: 3494813504156004747
+    second: Game Gear - Mega Man - Mega Man_18
+  - first:
+      213: -241461698263719868
+    second: Game Gear - Mega Man - Mega Man_19
+  - first:
+      213: 6439372438601301850
+    second: Game Gear - Mega Man - Mega Man_20
+  - first:
+      213: -7237296499015575434
+    second: Game Gear - Mega Man - Mega Man_21
+  - first:
+      213: 8468171701235134496
+    second: Mega-Man Death 1
+  - first:
+      213: 4879710770714034045
+    second: Mega-Man Death 5
+  - first:
+      213: -7503655923466793935
+    second: Mega-Man Death 3
+  - first:
+      213: -4546929347160657530
+    second: Mega-Man Death 2
+  - first:
+      213: -4709100168304375172
+    second: Game Gear - Mega Man - Mega Man_26
+  - first:
+      213: -1753918186817666003
+    second: Game Gear - Mega Man - Mega Man_27
+  - first:
+      213: -5306453783002770976
+    second: Game Gear - Mega Man - Mega Man_28
+  - first:
+      213: 815001181067370947
+    second: Game Gear - Mega Man - Mega Man_29
+  - first:
+      213: -1563175505872134125
+    second: Game Gear - Mega Man - Mega Man_30
+  - first:
+      213: 8595697132392693714
+    second: Game Gear - Mega Man - Mega Man_31
+  - first:
+      213: -1169991301275209508
+    second: Game Gear - Mega Man - Mega Man_32
+  - first:
+      213: -8122702591813325841
+    second: Game Gear - Mega Man - Mega Man_33
+  - first:
+      213: -1309285231750861738
+    second: Game Gear - Mega Man - Mega Man_34
+  - first:
+      213: 4490012084660605190
+    second: Game Gear - Mega Man - Mega Man_35
+  - first:
+      213: -2282898215584033235
+    second: Game Gear - Mega Man - Mega Man_36
+  - first:
+      213: 5285813581148382564
+    second: Game Gear - Mega Man - Mega Man_37
+  - first:
+      213: 5729606202027428615
+    second: Game Gear - Mega Man - Mega Man_38
+  - first:
+      213: -1694108361072999875
+    second: Game Gear - Mega Man - Mega Man_39
+  - first:
+      213: 6075459957645865394
+    second: Game Gear - Mega Man - Mega Man_40
+  - first:
+      213: -7279976299165487895
+    second: Game Gear - Mega Man - Mega Man_41
+  - first:
+      213: 7754672229784856300
+    second: Game Gear - Mega Man - Mega Man_42
+  - first:
+      213: -9204260622705203756
+    second: Game Gear - Mega Man - Mega Man_43
+  - first:
+      213: -969522844518172370
+    second: Game Gear - Mega Man - Mega Man_44
+  - first:
+      213: -3676364268935110614
+    second: Game Gear - Mega Man - Mega Man_45
+  - first:
+      213: -5665884956555764897
+    second: Game Gear - Mega Man - Mega Man_46
+  - first:
+      213: 3603866915737994217
+    second: Game Gear - Mega Man - Mega Man_47
+  - first:
+      213: -6425380825967077306
+    second: Game Gear - Mega Man - Mega Man_48
+  - first:
+      213: 1563521087546866725
+    second: Game Gear - Mega Man - Mega Man_49
+  - first:
+      213: -1831351239057262752
+    second: Game Gear - Mega Man - Mega Man_50
+  - first:
+      213: -786568067098356806
+    second: Game Gear - Mega Man - Mega Man_51
+  - first:
+      213: 5005827504652041604
+    second: Game Gear - Mega Man - Mega Man_52
+  - first:
+      213: -7842162562897494006
+    second: Game Gear - Mega Man - Mega Man_53
+  - first:
+      213: 6897607948446294590
+    second: Game Gear - Mega Man - Mega Man_54
+  - first:
+      213: -4708149588807194996
+    second: Game Gear - Mega Man - Mega Man_55
+  - first:
+      213: -105562500167252602
+    second: Game Gear - Mega Man - Mega Man_56
+  - first:
+      213: 6915200669616113204
+    second: Game Gear - Mega Man - Mega Man_57
+  - first:
+      213: 5633028314001247122
+    second: Game Gear - Mega Man - Mega Man_58
+  - first:
+      213: 8995249058388805642
+    second: Game Gear - Mega Man - Mega Man_59
+  - first:
+      213: 8845795042731461633
+    second: Game Gear - Mega Man - Mega Man_60
+  - first:
+      213: -6458960730928821412
+    second: Game Gear - Mega Man - Mega Man_61
+  - first:
+      213: -3031522085968894244
+    second: Game Gear - Mega Man - Mega Man_62
+  - first:
+      213: 9016128769561458952
+    second: Game Gear - Mega Man - Mega Man_63
+  - first:
+      213: -1628444027427081615
+    second: Game Gear - Mega Man - Mega Man_64
+  - first:
+      213: -2566398698211367261
+    second: Game Gear - Mega Man - Mega Man_65
+  - first:
+      213: 2186870131763112989
+    second: Game Gear - Mega Man - Mega Man_66
+  - first:
+      213: 8121148510139720341
+    second: Game Gear - Mega Man - Mega Man_67
+  - first:
+      213: -7532769961090073265
+    second: Game Gear - Mega Man - Mega Man_68
+  - first:
+      213: 7364417104588461684
+    second: Game Gear - Mega Man - Mega Man_69
+  - first:
+      213: -1694219654457618381
+    second: Game Gear - Mega Man - Mega Man_70
+  - first:
+      213: 7296665962842615695
+    second: Game Gear - Mega Man - Mega Man_71
+  - first:
+      213: -7976829731595305202
+    second: Game Gear - Mega Man - Mega Man_72
+  - first:
+      213: 5553369565105533363
+    second: Game Gear - Mega Man - Mega Man_73
+  - first:
+      213: 7304707131594498660
+    second: Game Gear - Mega Man - Mega Man_74
+  - first:
+      213: -190055853720842920
+    second: Game Gear - Mega Man - Mega Man_75
+  - first:
+      213: -369372238753933479
+    second: Game Gear - Mega Man - Mega Man_76
+  - first:
+      213: 8716468366208522897
+    second: Game Gear - Mega Man - Mega Man_77
+  - first:
+      213: 1786492676759638209
+    second: Game Gear - Mega Man - Mega Man_78
+  - first:
+      213: -4745021986174702588
+    second: Game Gear - Mega Man - Mega Man_79
+  - first:
+      213: -2259531451650737761
+    second: Game Gear - Mega Man - Mega Man_80
+  - first:
+      213: 3579299295509471290
+    second: Game Gear - Mega Man - Mega Man_81
+  - first:
+      213: 3189703271179038800
+    second: Game Gear - Mega Man - Mega Man_82
+  - first:
+      213: 4421556196433767396
+    second: Game Gear - Mega Man - Mega Man_83
+  - first:
+      213: 6125548816748074689
+    second: Game Gear - Mega Man - Mega Man_84
+  - first:
+      213: 5483187149232486482
+    second: Game Gear - Mega Man - Mega Man_85
+  - first:
+      213: -2547044013628385902
+    second: Game Gear - Mega Man - Mega Man_86
+  - first:
+      213: -7918826900953200600
+    second: Game Gear - Mega Man - Mega Man_87
+  - first:
+      213: -2183207600267171098
+    second: Game Gear - Mega Man - Mega Man_88
+  - first:
+      213: 6974833008305026905
+    second: Game Gear - Mega Man - Mega Man_89
+  - first:
+      213: -2240452576078312692
+    second: Game Gear - Mega Man - Mega Man_90
+  - first:
+      213: -6023597871897504060
+    second: Game Gear - Mega Man - Mega Man_91
+  - first:
+      213: -2942588102608732011
+    second: Game Gear - Mega Man - Mega Man_92
+  - first:
+      213: -1427378214772833160
+    second: Game Gear - Mega Man - Mega Man_93
+  - first:
+      213: -4805878633704907752
+    second: Game Gear - Mega Man - Mega Man_94
+  - first:
+      213: -7648706552628522763
+    second: Game Gear - Mega Man - Mega Man_95
+  - first:
+      213: -3271842547721739552
+    second: Game Gear - Mega Man - Mega Man_96
+  - first:
+      213: -5182213844843483874
+    second: Game Gear - Mega Man - Mega Man_97
+  - first:
+      213: 7824138384343671448
+    second: Game Gear - Mega Man - Mega Man_98
+  - first:
+      213: 7390399687947546765
+    second: Game Gear - Mega Man - Mega Man_99
+  - first:
+      213: 4625152534785937240
+    second: Game Gear - Mega Man - Mega Man_100
+  - first:
+      213: 7240448015724831354
+    second: Game Gear - Mega Man - Mega Man_101
+  - first:
+      213: 762285032008674943
+    second: Game Gear - Mega Man - Mega Man_102
+  - first:
+      213: -7597089963825923302
+    second: Game Gear - Mega Man - Mega Man_103
+  - first:
+      213: -2080366453786951372
+    second: Game Gear - Mega Man - Mega Man_104
+  - first:
+      213: -5941681338470982426
+    second: Game Gear - Mega Man - Mega Man_105
+  - first:
+      213: -2177825008547317139
+    second: Game Gear - Mega Man - Mega Man_106
+  - first:
+      213: -9002796127726049961
+    second: Game Gear - Mega Man - Mega Man_107
+  - first:
+      213: -7933229144326324175
+    second: Game Gear - Mega Man - Mega Man_108
+  - first:
+      213: 8294718529195014274
+    second: Game Gear - Mega Man - Mega Man_109
+  - first:
+      213: -2083349508471447479
+    second: Game Gear - Mega Man - Mega Man_110
+  - first:
+      213: 9028940752964415054
+    second: Game Gear - Mega Man - Mega Man_111
+  - first:
+      213: -4968792517792606708
+    second: Game Gear - Mega Man - Mega Man_112
+  - first:
+      213: -4079614281581891597
+    second: Game Gear - Mega Man - Mega Man_113
+  - first:
+      213: 185784901451039786
+    second: Game Gear - Mega Man - Mega Man_114
+  - first:
+      213: -8685082975952008891
+    second: Game Gear - Mega Man - Mega Man_115
+  - first:
+      213: 827926259455136963
+    second: Game Gear - Mega Man - Mega Man_116
+  - first:
+      213: -8616320274187268279
+    second: Game Gear - Mega Man - Mega Man_117
+  - first:
+      213: 3438804497021645887
+    second: Game Gear - Mega Man - Mega Man_118
+  - first:
+      213: 6692777966274601943
+    second: Game Gear - Mega Man - Mega Man_119
+  - first:
+      213: 4511575627045801915
+    second: Game Gear - Mega Man - Mega Man_120
+  - first:
+      213: 404198353344092318
+    second: Game Gear - Mega Man - Mega Man_121
+  - first:
+      213: -2207255719453618249
+    second: Game Gear - Mega Man - Mega Man_122
+  - first:
+      213: -1654108812431160061
+    second: Game Gear - Mega Man - Mega Man_123
+  - first:
+      213: 3519374527964339625
+    second: Game Gear - Mega Man - Mega Man_124
+  - first:
+      213: 6455063862634004748
+    second: Game Gear - Mega Man - Mega Man_125
+  - first:
+      213: 8791857469767069622
+    second: Game Gear - Mega Man - Mega Man_126
+  - first:
+      213: 8960609527588624354
+    second: Game Gear - Mega Man - Mega Man_127
+  - first:
+      213: -7285606369591911715
+    second: Game Gear - Mega Man - Mega Man_128
+  - first:
+      213: -8151142703542632688
+    second: Game Gear - Mega Man - Mega Man_129
+  - first:
+      213: 8828368179206530624
+    second: Game Gear - Mega Man - Mega Man_130
+  - first:
+      213: 9063203352276808806
+    second: Game Gear - Mega Man - Mega Man_131
+  - first:
+      213: 1395524540719624836
+    second: Game Gear - Mega Man - Mega Man_132
+  - first:
+      213: -4565686486536282562
+    second: Game Gear - Mega Man - Mega Man_133
+  - first:
+      213: -3437281053062446434
+    second: Game Gear - Mega Man - Mega Man_134
+  - first:
+      213: -5955908459026810928
+    second: Game Gear - Mega Man - Mega Man_135
+  - first:
+      213: 6654259098566648843
+    second: Game Gear - Mega Man - Mega Man_136
+  - first:
+      213: -2259354029574225468
+    second: Game Gear - Mega Man - Mega Man_137
+  - first:
+      213: 8914333353695331104
+    second: Game Gear - Mega Man - Mega Man_138
+  - first:
+      213: 4403324854675188557
+    second: Game Gear - Mega Man - Mega Man_139
+  - first:
+      213: 6453196956007096632
+    second: Game Gear - Mega Man - Mega Man_140
+  - first:
+      213: -3831857626212865661
+    second: Game Gear - Mega Man - Mega Man_141
+  - first:
+      213: -8968171591280639763
+    second: Game Gear - Mega Man - Mega Man_142
+  - first:
+      213: -2665659523078930248
+    second: Game Gear - Mega Man - Mega Man_143
+  - first:
+      213: -3484396531498011980
+    second: Game Gear - Mega Man - Mega Man_144
+  - first:
+      213: 1775873695272222366
+    second: Game Gear - Mega Man - Mega Man_145
+  - first:
+      213: -1720900575710466518
+    second: Game Gear - Mega Man - Mega Man_146
+  - first:
+      213: -1342182094195179636
+    second: Game Gear - Mega Man - Mega Man_147
+  - first:
+      213: -4795415877850081816
+    second: Game Gear - Mega Man - Mega Man_148
+  - first:
+      213: 6861657239349566384
+    second: Game Gear - Mega Man - Mega Man_149
+  - first:
+      213: -1655181111553293131
+    second: Game Gear - Mega Man - Mega Man_150
+  - first:
+      213: -6755644453672090888
+    second: Game Gear - Mega Man - Mega Man_151
+  - first:
+      213: -5245173546383944753
+    second: Game Gear - Mega Man - Mega Man_152
+  - first:
+      213: 4271304363926531717
+    second: Game Gear - Mega Man - Mega Man_153
+  - first:
+      213: 93351410938839227
+    second: Game Gear - Mega Man - Mega Man_154
+  - first:
+      213: 3139057325607533060
+    second: Game Gear - Mega Man - Mega Man_155
+  - first:
+      213: 4294279618525461793
+    second: Game Gear - Mega Man - Mega Man_156
+  - first:
+      213: -1499127324980858578
+    second: Game Gear - Mega Man - Mega Man_157
+  - first:
+      213: 1910198667936426699
+    second: Game Gear - Mega Man - Mega Man_158
+  - first:
+      213: 1967383497309629105
+    second: Game Gear - Mega Man - Mega Man_159
+  - first:
+      213: -4292334926095252858
+    second: Game Gear - Mega Man - Mega Man_160
+  - first:
+      213: -1330070863397181261
+    second: Game Gear - Mega Man - Mega Man_161
+  - first:
+      213: 2522751031897309760
+    second: Game Gear - Mega Man - Mega Man_162
+  - first:
+      213: -7731973851393582008
+    second: Game Gear - Mega Man - Mega Man_163
+  - first:
+      213: -8241002249713396445
+    second: Game Gear - Mega Man - Mega Man_164
+  - first:
+      213: 7504710674166024319
+    second: Game Gear - Mega Man - Mega Man_165
+  - first:
+      213: 1965043301219169006
+    second: Game Gear - Mega Man - Mega Man_166
+  - first:
+      213: -9108664996478862497
+    second: Game Gear - Mega Man - Mega Man_167
+  - first:
+      213: 1220160071504590217
+    second: Game Gear - Mega Man - Mega Man_168
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mega-Man Idle
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 109
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b988f1ae0da526870800000000000000
+      internalID: 8674595685596629147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega-Man Idle 2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 109
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d5f1f44063c65d0800000000000000
+      internalID: -3068017854010925726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega-Man Idle 3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 109
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bd4a1820bbeb5d0800000000000000
+      internalID: -3044790678616483048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega-Man Run 1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 109
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccb2127dc9de16e0800000000000000
+      internalID: -1864813719279452979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega-Man Run 2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 109
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8acddb2c1361b70800000000000000
+      internalID: 8869331228631541921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega-Man Run 3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 109
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a842040d20f3c4360800000000000000
+      internalID: 7155163189301224586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega-Man Slide
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 109
+        width: 29
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94217cd253e7ac260800000000000000
+      internalID: 7118640927878877769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega-Man Jump 1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 112
+        width: 26
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78cdd5e507e91280800000000000000
+      internalID: -9071965961843783558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega-Man Climb 1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 112
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e032b58c4243ae80800000000000000
+      internalID: -8168612402691952408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega-Man Climb Down 1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 112
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7605b14024ee980800000000000000
+      internalID: -8507790060650731613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega-Man Jump 2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 113
+        width: 26
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32918b138ecf15b0800000000000000
+      internalID: -5395366766069050822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega-Man Gun 1
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 109
+        width: 30
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef99ac07d63dac8d0800000000000000
+      internalID: -2825213349224343042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega-Man Gun 2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 109
+        width: 29
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5310a3f975c8be460800000000000000
+      internalID: 7272060331281219893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega-Man Gun 3
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 109
+        width: 25
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c867d09ef46348f00800000000000000
+      internalID: 1118078324335015564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega-Man Gun 4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 109
+        width: 30
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79eba2f5430e27320800000000000000
+      internalID: 2554350454212050583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Gear - Mega Man - Mega Man_15
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 111
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985fab8dd2503fd90800000000000000
+      internalID: -7065297695946377847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Gear - Mega Man - Mega Man_16
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 113
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2f28c90c5871b10800000000000000
+      internalID: 1952176025794441892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega-Man Death 1
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 113
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdd0c1661a2062a0800000000000000
+      internalID: -6746345966183326274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega-Man Death 5
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 112
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edbb752ca29eb650800000000000000
+      internalID: 6250594600897723880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega-Man Death 3
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 116
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232d0f2c991992c70800000000000000
+      internalID: 8946842224334787122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega-Man Death 2
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 118
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9626cccfd07a78ea0800000000000000
+      internalID: -5870539910736485783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Gear - Mega Man - Mega Man_26
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 121
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd48e21eebff05450800000000000000
+      internalID: 6075637092609590492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
